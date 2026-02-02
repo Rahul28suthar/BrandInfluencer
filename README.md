@@ -28,39 +28,39 @@ A modern web platform that connects **brands and influencers** for seamless coll
 
 ## 📁 Project Structure
 
-  BrandInfluencer/
-  └── brandinfluencer/
-  └── src/
-  ├── assets/
-  │
-  ├── components/
-  │ ├── CampaignCard.js
-  │ ├── Footer.js
-  │ ├── InfluencerCard.js
-  │ ├── InfluencerModal.js
-  │ └── Navbar.js
-  │
-  ├── data/
-  │ └── influencer.js
-  │
-  ├── hooks/
-  │
-  ├── pages/
-  │ ├── About.js
-  │ ├── Brands.js
-  │ ├── Contact.js
-  │ ├── Home.js
-  │ ├── Influencers.js
-  │ ├── Register.js
-  │ └── SignIn.js
-  │
-  ├── sections/
-  │ ├── Campaigns.js
-  │ ├── Hero.js
-  │ └── TopInfluencer.js
-  │
-  ├── services/
-  │
-  ├── App.js
-  ├── index.js
-  └── index.css
+BrandInfluencer/
+└── brandinfluencer/
+└── src/
+├── assets/
+│
+├── components/
+│ ├── CampaignCard.js
+│ ├── Footer.js
+│ ├── InfluencerCard.js
+│ ├── InfluencerModal.js
+│ └── Navbar.js
+│
+├── data/
+│ └── influencer.js
+│
+├── hooks/
+│
+├── pages/
+│ ├── About.js
+│ ├── Brands.js
+│ ├── Contact.js
+│ ├── Home.js
+│ ├── Influencers.js
+│ ├── Register.js
+│ └── SignIn.js
+│
+├── sections/
+│ ├── Campaigns.js
+│ ├── Hero.js
+│ └── TopInfluencer.js
+│
+├── services/
+│
+├── App.js
+├── index.js
+└── index.css
